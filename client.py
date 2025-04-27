@@ -7,7 +7,7 @@ import random
 
 HOST = '127.0.0.1'
 PORT = 55553
-SERVER_CERT = 'cert1.pem'
+SERVER_CERT = 'cert.pem'
 
 client = None       # client socket object
 username = None     # store input username
